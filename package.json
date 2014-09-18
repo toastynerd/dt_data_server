@@ -1,0 +1,24 @@
+{
+  "name": "dt_data_server",
+  "version": "0.0.1",
+  "description": "distributed twitter data server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/mocha/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toastynerd/dt_data_server"
+  },
+  "keywords": [
+    "data",
+    "twitter",
+    "distributed"
+  ],
+  "author": "Tyler Morgan <tyler@codefellows.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toastynerd/dt_data_server/issues"
+  },
+  "homepage": "https://github.com/toastynerd/dt_data_server"
+}

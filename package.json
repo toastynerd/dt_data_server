@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/toastynerd/dt_data_server/issues"
   },
-  "homepage": "https://github.com/toastynerd/dt_data_server"
+  "homepage": "https://github.com/toastynerd/dt_data_server",
+  "dependencies": {
+    "body-parser": "^1.8.2",
+    "express": "^4.9.2",
+    "mongodb": "^1.4.12"
+  }
 }
